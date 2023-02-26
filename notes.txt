@@ -1,0 +1,3 @@
+1. SHIFT + !            = HTML ISKELET YAPISINI VERIR
+2. CTRL + I             = KOMUT SATIRINA ALIR
+3. ALT + SHIFT + F      = KODU DUZENLEME
